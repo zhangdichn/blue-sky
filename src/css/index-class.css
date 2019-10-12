@@ -1,0 +1,6 @@
+.index-class-item {
+  width: 200px;
+  height: 200px;
+  backdrop-filter: #FFF;
+  display: inline-block;
+}
