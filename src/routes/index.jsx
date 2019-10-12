@@ -1,5 +1,5 @@
 import App from '../App';
-import Login from '../pages/login';
+// import Login from '../pages/login';
 import Index from '../pages/index';
 import Detail from '../pages/detail';
 
