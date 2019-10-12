@@ -1,6 +1,7 @@
 import React from 'react';
 // import logo from './logo.svg';
 import './App.css';
+import { asideLidt } from './data';
 
 class App extends React.Component {
   constructor(props) {
@@ -34,8 +35,6 @@ class App extends React.Component {
         <ul class="menu-list">
           <li><a class="is-active">Dashboard</a></li>
           <li><a>Customers</a></li>
-        </ul>
-        <ul class="menu-list">
           <li><a>Team Settings</a></li>
           <li>
             <a>Manage Your Team</a>
@@ -48,11 +47,6 @@ class App extends React.Component {
           <li><a>Invitations</a></li>
           <li><a>Cloud Storage</a></li>
           <li><a>Authentication</a></li>
-        </ul>
-        <ul class="menu-list">
-          <li><a>Payments</a></li>
-          <li><a>Transfers</a></li>
-          <li><a>Balance</a></li>
         </ul>
       </div>
     );

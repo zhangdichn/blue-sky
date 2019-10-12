@@ -21,6 +21,7 @@
 }
 
 .column {
+  background-clip: content-box;
   background-color: #fff;
 }
 
