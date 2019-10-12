@@ -7,6 +7,9 @@ const asideLidt = [{
   children: [{
     label: '人力资源',
     link: '/sourse/human-resources'
+  }, {
+    label: '产品运营',
+    link: '/sourse/product-operation'
   }],
 }, {
   label: '我的收藏',
